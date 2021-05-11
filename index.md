@@ -4,19 +4,19 @@
 
 ### Category Name 1 
 
-[Project 1 - Galaxy Cat](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 1 - Animal Mash-Up](/sample_page)
+<img src="Animal Mash-up.jpg?raw=true"/>
 
 ---
 [Project 2 - Mother's Day](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="Mother's Day.jpg.jpg?raw=true"/>
 
 ---
-[Project 3 - Surrealism](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 3 - Earthday](http://example.com/)
+<img src="Earthday.png?raw=true"/>
 
-[Project 4 - Earth Day](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Project 4 - Snow](http://example.com/)
+<img src="Alicia Caldera- Snow.jpg?raw=true"/>
 
 ---
 
