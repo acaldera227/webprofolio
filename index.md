@@ -1,18 +1,21 @@
-## Portfolio
+## Alicia Caldera's Portfolio
 
 ---
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
+[Project 1 - Galaxy Cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project 2 - Mother's Day](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Project 3 - Surrealism](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+[Project 4 - Earth Day](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
